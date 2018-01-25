@@ -1,0 +1,26 @@
+en-US:
+  auth:
+    sign_in: "登入"
+    or_sign_in_with: "其他登入方式"
+    sign_up: "註冊"
+    form:
+      email: "Email"
+      email_placeholder: "email地址"
+      password: "密碼"
+      password_placeholder: "密碼"
+      new_password: "新密碼"
+      new_password_placeholder: "輸入您的新密碼"
+      password_confirm: "確認密碼"
+      password_confirm_placeholder: "確認密碼"
+      sign_in: "登入"
+      sign_up: "註冊"
+      reset_password: "重設密碼"
+      forgot_password: "繼續"
+    passwords:
+      reset_password: "重設您的密碼"
+      forgot_password: "忘記密碼？"
+      forgot_password_desc: "輸入您的email地址我們會發送一封重設密碼email給您。"
+    links:
+      sign_in: "已經註冊？登入"
+      sign_in_with: "用{{$1}}登入"
+      forgot_password: "忘記密碼？"
